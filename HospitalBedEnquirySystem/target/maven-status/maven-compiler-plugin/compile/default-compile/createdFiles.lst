@@ -1,0 +1,5 @@
+org\example\HospitalSystem.class
+org\example\BedInfo.class
+org\example\Hospital.class
+org\example\HospitalBedInfo.class
+org\example\Patient.class
